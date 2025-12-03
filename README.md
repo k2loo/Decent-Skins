@@ -5,8 +5,6 @@ Light mode is digital nudity, maintain the modesty of your rack with Decent Skin
 
 [![ko-fi](/Raw%20Files/z_img/ko-fi-button-branded.svg)](https://ko-fi.com/B0B21PMGFU)
 
-<!-- [![ko-fi](/Raw%20Files/z_img/ko-fi-button-branded.png)](https://ko-fi.com/B0B21PMGFU) -->
-
 ## How to use
 1. Download the zip file from the downloads folder and unzip it.
     -  Close VCV Rack if it's running.
