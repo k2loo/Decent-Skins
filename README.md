@@ -3,7 +3,7 @@ Light mode is digital nudity, maintain the modesty of your rack with Decent Skin
 
 ![decent skins carbon](/Raw%20Files/z_img/thumb-1000x503.png)
 
-[![ko-fi](/Raw%20Files/z_img/ko-fi-button-branded.svg)](https://ko-fi.com/B0B21PMGFU)
+[![ko-fi](/Raw%20Files/z_img/ko-fi-button-branded.svg = 223x30)](https://ko-fi.com/B0B21PMGFU)
 
 ## How to use
 1. Download the zip file from the downloads folder and unzip it.
