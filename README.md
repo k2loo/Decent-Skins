@@ -1,5 +1,5 @@
 # Decent Skins for VCV Rack
-Light mode is digital nudity, maintain the modesty of your rack with Decent Skins. Thus far fiftyish modules from half a dozen or so brands have had their dignity restored with a more sensible color scheme.
+Rid yourself of those pesky light mode modules in your rack with Decent Skins. Thus far fiftyish modules from half a dozen or so brands have a more sensible color scheme offered here.
 
 ![decent skins thumb](/Raw%20Files/z_img/thumb-1000x503.png)
 
