@@ -8,8 +8,10 @@ Light mode is digital nudity, maintain the modesty of your rack with Decent Skin
 ## How to use
 1. Download the zip file from the downloads folder and unzip it.
     -  Close VCV Rack if it's running.
+
 2. Copy/paste the Decent Skins svg files into the `res` folder for each brand you wish to reskin. The new files should have the same filenames as the originals.
     - You can save a copy of the original svg files in another location to easily restore default aesthetics later, or download them from this repo.
+
 3. Open VCV Rack and enjoy.
 
 Example:
