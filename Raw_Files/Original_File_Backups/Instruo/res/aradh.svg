@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   height="128.5mm"
+   width="50.080002mm"
+   sodipodi:docname="10HP Hour Glass (Inkscape Render).svg"
+   xml:space="preserve"
+   viewBox="0 0 189.27874 485.66932"
+   y="0px"
+   x="0px"
+   id="Layer_1"
+   version="1.1"><metadata
+   id="metadata1458"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs1456" /><sodipodi:namedview
+   inkscape:current-layer="Layer_1"
+   inkscape:window-maximized="0"
+   inkscape:window-y="23"
+   inkscape:window-x="0"
+   inkscape:cy="230.76831"
+   inkscape:cx="-10.045054"
+   inkscape:zoom="0.95855565"
+   units="mm"
+   inkscape:document-units="mm"
+   showgrid="false"
+   id="namedview1454"
+   inkscape:window-height="765"
+   inkscape:window-width="1269"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
+<style
+   id="style1427"
+   type="text/css">
+	.st0{fill:#1E1E1E;}
+	.st1{fill:#DABE8D;}
+</style>
+<rect
+   style="stroke-width:1.33305"
+   y="0"
+   x="0"
+   id="rect1429"
+   height="485.66931"
+   width="189.27875"
+   class="st0" />
+<g
+   style="fill:#e1c490;fill-opacity:1"
+   transform="scale(1.3329489,1.3331576)"
+   id="g1158">
+	<rect
+   style="fill:#e1c490;fill-opacity:1"
+   height="3"
+   width="142"
+   class="st1"
+   y="347.5"
+   x="0"
+   id="rect1156" />
+</g>
+<g
+   style="fill:#e1c490;fill-opacity:1"
+   transform="scale(1.3329489,1.3331576)"
+   id="g1158_1_">
+	<rect
+   style="fill:#e1c490;fill-opacity:1"
+   height="3"
+   width="142"
+   class="st1"
+   y="13.4"
+   x="0"
+   id="rect1156_1_" />
+</g>
+<g
+   style="fill:#e1c490;fill-opacity:1"
+   transform="scale(1.3329489,1.3331576)"
+   id="g1451">
+	<polygon
+   style="fill:#e1c490;fill-opacity:1"
+   id="polygon1435"
+   points="42,131.9 91.8,131.9 66.9,175.1 "
+   class="st1" />
+	<polygon
+   style="fill:#e1c490;fill-opacity:1"
+   id="polygon1437"
+   points="99.9,131.9 71.1,181.9 70.8,181.9 69,178.7 96,131.9 "
+   class="st1" />
+	<polygon
+   style="fill:#e1c490;fill-opacity:1"
+   id="polygon1439"
+   points="69,178.7 62.1,190.5 59,188.7 66.9,175.1 "
+   class="st1" />
+	<polygon
+   style="fill:#e1c490;fill-opacity:1"
+   id="polygon1441"
+   points="96,131.9 91.8,131.9 95.7,125.1 99.9,125.1 "
+   class="st1" />
+	<polygon
+   style="fill:#e1c490;fill-opacity:1"
+   id="polygon1443"
+   points="100,232.2 50.2,232.4 75,189.1 "
+   class="st1" />
+	<polygon
+   style="fill:#e1c490;fill-opacity:1"
+   id="polygon1445"
+   points="42,232.4 70.8,182.3 71,182.3 72.9,185.5 46,232.4 "
+   class="st1" />
+	<polygon
+   style="fill:#e1c490;fill-opacity:1"
+   id="polygon1447"
+   points="72.9,185.5 79.7,173.7 82.8,175.5 75,189.1 "
+   class="st1" />
+	<polygon
+   style="fill:#e1c490;fill-opacity:1"
+   id="polygon1449"
+   points="46.2,239.2 42.1,239.2 46,232.4 50.2,232.4 "
+   class="st1" />
+</g>
+</svg>
