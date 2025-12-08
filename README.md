@@ -1,5 +1,5 @@
 # Decent Skins for VCV Rack
-Rid yourself of those pesky light mode modules in your rack with Decent Skins. Thus far 350ish modules from a dozen or so brands have a more sensible color scheme offered here.
+Rid yourself of those pesky light mode modules in your rack with Decent Skins. Thus far 500ish modules from 20 or so brands have a more sensible color scheme offered here.
 
 ![decent skins thumb](/.github/thumb-1000x503.png)
 
