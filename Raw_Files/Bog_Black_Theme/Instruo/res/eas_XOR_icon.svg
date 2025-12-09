@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   height="3.168mm"
+   width="6.7950001mm"
+   sodipodi:docname="XOR_icon.svg"
+   xml:space="preserve"
+   viewBox="0 0 25.681891 11.973543"
+   y="0px"
+   x="0px"
+   id="Layer_1"
+   version="1.1"><metadata
+   id="metadata844"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs842" /><sodipodi:namedview
+   inkscape:current-layer="Layer_1"
+   inkscape:window-maximized="0"
+   inkscape:window-y="36"
+   inkscape:window-x="96"
+   inkscape:cy="0.66514206"
+   inkscape:cx="10.899441"
+   inkscape:zoom="22.138244"
+   units="mm"
+   inkscape:document-units="mm"
+   showgrid="false"
+   id="namedview840"
+   inkscape:window-height="855"
+   inkscape:window-width="1374"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff"
+   inkscape:snap-center="true"
+   inkscape:snap-bbox="true"
+   inkscape:snap-bbox-midpoints="true"
+   inkscape:snap-bbox-edge-midpoints="true"
+   inkscape:bbox-nodes="true"
+   inkscape:bbox-paths="true" />
+<style
+   id="style833"
+   type="text/css">
+	.st0{fill:#E0C490;}
+</style>
+
+<style
+   type="text/css"
+   id="style883">
+	.st0{fill:#E0C490;}
+</style><style
+   type="text/css"
+   id="style2244">
+	.st0{fill:#E0C490;}
+</style><style
+   type="text/css"
+   id="style968">
+	.st0{fill:#E0C490;}
+</style><style
+   type="text/css"
+   id="style1643">
+	.st0{fill:#E0C490;}
+</style><g
+   id="g1653"
+   style="fill:#e0c490;fill-opacity:1"
+   transform="matrix(-1.3333543,0,0,1.3333516,17.112869,1.3781955)">
+	<g
+   id="g1647"
+   style="fill:#e0c490;fill-opacity:1">
+		<path
+   class="st0"
+   d="M 5.9,0 3.4,5.5 H 2.6 L 0.1,0 H 1 l 2,4.7 v 0 L 5,0 Z"
+   id="path1645"
+   style="fill:#e0c490;fill-opacity:1"
+   inkscape:connector-curvature="0" />
+	</g>
+	<g
+   id="g1651"
+   style="fill:#e0c490;fill-opacity:1">
+		<path
+   class="st0"
+   d="M 0,6.9 V 6.3 h 6 v 0.6 z"
+   id="path1649"
+   style="fill:#e0c490;fill-opacity:1"
+   inkscape:connector-curvature="0" />
+	</g>
+</g></svg>

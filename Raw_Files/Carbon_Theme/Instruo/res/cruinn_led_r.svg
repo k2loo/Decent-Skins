@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="4.1063333mm"
+   height="4.1063557mm"
+   viewBox="0 0 4.1063333 4.1063557"
+   version="1.1"
+   id="svg1741"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="cruinn_led_r.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1743"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="49.773737"
+     inkscape:cx="3.6465014"
+     inkscape:cy="6.8510025"
+     inkscape:window-width="2560"
+     inkscape:window-height="1403"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1738" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-78.235493,-77.555069)">
+    <g
+       id="g3547"
+       style="fill:#e1c590;fill-opacity:1"
+       transform="matrix(0.35277777,0,0,0.3527797,19.328661,65.638171)">
+      <g
+         id="g3545"
+         style="fill:#e1c590;fill-opacity:1">
+        <path
+           class="st1"
+           d="m 172.28,36.4 c 0.41,0 1.01,0.03 1.46,0.33 0.35,0.23 0.66,0.69 0.66,1.33 0,0.92 -0.6,1.59 -1.51,1.66 l 1.91,2.68 h -0.81 l -1.83,-2.63 h -0.17 v 2.63 h -0.67 v -6 z m -0.3,2.78 h 0.42 c 0.83,0 1.32,-0.4 1.32,-1.1 0,-0.33 -0.1,-0.67 -0.48,-0.88 -0.27,-0.15 -0.58,-0.17 -0.86,-0.17 h -0.41 v 2.15 z"
+           id="path3543"
+           style="fill:#e1c590;fill-opacity:1" />
+      </g>
+    </g>
+  </g>
+</svg>

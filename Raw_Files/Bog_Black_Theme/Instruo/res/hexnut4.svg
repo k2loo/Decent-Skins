@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="9mm"
+   height="9mm"
+   viewBox="0 0 9 9"
+   version="1.1"
+   id="svg3806"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="HexNut4.svg">
+  <defs
+     id="defs3800" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8.8776466"
+     inkscape:cx="-5.4238953"
+     inkscape:cy="25.987897"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1252"
+     inkscape:window-height="855"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3803">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       class="st0"
+       d="M 8.3440203,2.2389106 4.4019699,0.02393071 0.53776628,2.3299946 0.59750564,6.820696 4.539556,9.0356759 8.4037596,6.7296119 Z M 2.517526,5.7160226 C 1.8656507,4.6236946 2.2160125,3.2212958 3.3028198,2.5727153 4.389627,1.924135 5.7902324,2.2815983 6.4421076,3.3739265 7.0939828,4.4662546 6.7436209,5.8686532 5.6568138,6.5172336 4.5700064,7.1658141 3.1694011,6.8083507 2.517526,5.7160226 Z"
+       id="path6214"
+       style="fill:#7f8184;stroke-width:0.35245401"
+       inkscape:connector-curvature="0" />
+    <ellipse
+       id="circle6216"
+       cy="-1.5177603"
+       cx="6.198544"
+       class="st1"
+       rx="2.8267875"
+       ry="2.8125002"
+       style="fill:none;stroke:#c7c6c6;stroke-width:0.132292;stroke-miterlimit:10"
+       transform="rotate(59.172262)" />
+    <ellipse
+       id="circle6218"
+       cy="-1.5177603"
+       cx="6.198544"
+       class="st1"
+       rx="2.2614298"
+       ry="2.2500002"
+       style="fill:#101010;fill-opacity:1;stroke:#c7c6c6;stroke-width:0.132292;stroke-miterlimit:10"
+       transform="rotate(59.172262)" />
+  </g>
+</svg>
