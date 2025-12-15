@@ -21,7 +21,7 @@
     <rect x="0" y="0" width="180" height="380" style="fill:url(#_Linear1);"/>
     <rect x="0" y="253.33" width="180" height="126.67" style="fill:url(#_Linear2);"/>
     <rect x="0" y="126.67" width="180" height="126.67" style="fill:url(#_Linear3);"/>
-    <rect x="0" y="0" width="180" height="380" style="fill:rgb(16,53,80);fill-opacity:0.1;"/>
+    <rect x="0" y="0" width="180" height="380" style="fill:#202020;"/>
     <rect x="0" y="0" width="180" height="2" style="fill:url(#_Linear4);"/>
     <g>
       <path d="M103.663,5.976c0,-0.623 -0.506,-1.128 -1.129,-1.128l-27.068,0c-0.623,0 -1.128,0.505 -1.128,1.128l0,2.258c0,0.623 0.505,1.129 1.128,1.129l27.068,0c0.623,0 1.129,-0.506 1.129,-1.129l0,-2.258Z" style="fill:rgb(175,175,175);"/>

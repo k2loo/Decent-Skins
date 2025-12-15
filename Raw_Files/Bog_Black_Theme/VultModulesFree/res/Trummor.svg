@@ -77,7 +77,7 @@
     <rect x="0" y="0" width="300" height="380" style="fill:url(#_Linear1);"/>
     <rect x="0" y="253.33" width="300" height="126.67" style="fill:url(#_Linear2);"/>
     <rect x="0" y="126.67" width="300" height="126.67" style="fill:url(#_Linear3);"/>
-    <rect x="0" y="0" width="300" height="380" style="fill:rgb(16,53,80);fill-opacity:0.1;"/>
+    <rect x="0" y="0" width="300" height="380" style="fill:#101010;"/>
     <g>
       <rect x="14" y="205" width="11.682" height="24.373"/>
       <path d="M14.711,228.644l-0.697,0.729l11.668,0l-0.721,-0.729l-10.25,0Z" style="fill:rgb(173,173,173);"/>

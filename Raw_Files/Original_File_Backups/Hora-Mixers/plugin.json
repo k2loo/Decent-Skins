@@ -1,0 +1,40 @@
+{
+  "slug": "Hora-Mixers",
+  "name": "Mixers",
+  "version": "2.1.2",
+  "license": "proprietary",
+  "brand": "Hora",
+  "author": "Hora",
+  "authorEmail": "Hora.music.contact@gmail.com",
+  "authorUrl": "http://hora-music.wifeo.com",
+  "pluginUrl": "http://hora-music.wifeo.com/mixers.php",
+  "manualUrl": "http://hora-music.wifeo.com/manuals.php",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "modules": [
+    {
+      "slug": "StereoMixer-8",
+      "name": "Stereo Mixer",
+      "description": "8 Tracks Stereo Mixer",
+      "tags": [
+        "Mixer"
+      ]
+    },
+    {
+      "slug": "StereoMixer-8-2",
+      "name": "Stereo Mixer 8",
+      "description": "8 Track 2 loops CV controlled Mixer",
+      "tags": [
+        "Mixer"
+      ]
+    },
+    {
+      "slug": "StereoMixer-16-2",
+      "name": "StereoMixer 16",
+      "description": "16 tracks 2 loops cv controlled mixer",
+      "tags": [
+        "Mixer"
+      ]
+    }
+  ]
+}

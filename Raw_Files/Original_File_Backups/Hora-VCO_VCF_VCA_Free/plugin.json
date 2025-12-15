@@ -1,0 +1,40 @@
+{
+  "slug": "Hora-VCO_VCF_VCA_Free",
+  "name": "VCO-VCF-VCA Free",
+  "version": "2.2.4",
+  "license": "proprietary",
+  "author": "Hora",
+  "brand": "Hora",
+  "authorEmail": "Hora.music.contact@gmail.com",
+  "authorUrl": "http://hora-music.wifeo.com",
+  "pluginUrl": "http://hora-music.wifeo.com/vco-vcf-vca.php",
+  "manualUrl": "http://hora-music.wifeo.com/manuals.php",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "modules": [
+	{
+      "slug": "Amplitude-VCMixer",
+      "name": "Amplitude Free",
+      "description": "voltage controlled mixer/inverter/amp",
+      "tags": [
+        "VCA"
+      ]
+    },
+	{
+      "slug": "Juicy-VCF",
+      "name": "Juicy VCF free",
+      "description": "Virtual OTA VCF",
+      "tags": [
+        "VCF", "POLYPHONIC"
+      ]
+    },
+	{
+      "slug": "Vector-Synth",
+      "name": "Detour Free",
+      "description": "Vector Phaseshaping Synthesis",
+      "tags": [
+        "VCO", "SYNTH VOICE"
+      ]
+    }
+]
+}

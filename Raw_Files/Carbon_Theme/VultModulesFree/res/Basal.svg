@@ -19,7 +19,7 @@
     <path d="m0 0v380h90v-380z" fill="url(#linearGradient287)" stroke-width="2.4514"/>
     <path d="m0 253.33v126.67h90v-126.67z" fill="url(#linearGradient289)" style="paint-order:normal"/>
     <path d="m0 126.67v126.67h90v-126.67z" fill="url(#linearGradient291)" style="paint-order:normal"/>
-    <path d="m0 0v380h90v-380z" fill="#103550" opacity=".1" stroke-width="2.4514"/>
+    <path d="m0 0v380h90v-380z" fill="#202020" opacity=".1" stroke-width="2.4514"/>
     <path d="m0 0v2h90v-2z" fill="url(#linearGradient295)" style="paint-order:normal"/>
   </g>
   <g fill-rule="nonzero">

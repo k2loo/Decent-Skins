@@ -1,0 +1,56 @@
+{
+  "slug": "Hora-treasureFree",
+  "name": "Treasure Free",
+  "version": "2.2.3",
+  "license": "proprietary",
+  "author": "Hora",
+  "brand": "Hora",
+  "authorEmail": "Hora.music.contact@gmail.com",
+  "authorUrl": "http://hora-music.wifeo.com",
+  "pluginUrl": "http://hora-music.wifeo.com/free-modules.php",
+  "manualUrl": "http://hora-music.wifeo.com/manuals.php",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "modules": [
+	{
+      "slug": "SnareDrum-VCV",
+      "name": "Snare Drum Free",
+      "description": "Analog Snare Drum",
+      "tags": [
+        "DRUM"
+      ]
+    },
+	{
+      "slug": "SoftBell",
+      "name": "Soft Bell Free",
+      "description": "Analog Bell using vult made fiter mdoel",
+      "tags": [
+        "DRUM"
+      ]
+    },
+	{
+      "slug": "HiHat",
+      "name": "Hi Hat Free",
+      "description": "Analog HiHat  using vult made fiter mdoel",
+      "tags": [
+        "DRUM"
+      ]
+    },
+	{
+      "slug": "Frequencydivider",
+      "name": "Frequency Divider Free",
+      "description": "Frequency divider",
+      "tags": [
+        "Utility"
+      ]
+    },
+	{
+      "slug": "Deep",
+      "name": "Deep Free",
+      "description": "Analog Bass Drum",
+      "tags": [
+        "DRUM"
+      ]
+    }
+]
+}

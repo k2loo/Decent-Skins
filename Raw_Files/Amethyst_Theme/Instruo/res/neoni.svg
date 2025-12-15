@@ -39,7 +39,7 @@
    objecttolerance="10"
    borderopacity="1"
    bordercolor="#666666"
-   pagecolor="#FDDEA2fff"
+   pagecolor="#ffffff"
    inkscape:document-rotation="0"
    inkscape:document-units="mm"
    units="mm" />
@@ -784,7 +784,7 @@
 <path
    style="fill:#e0c490;fill-opacity:1;stroke-width:1.33343"
    id="path1109"
-   d="M 8.4333332,345.61594 2.7,351.35009 l 5.7333332,5.73416 5.7333328,-5.73416 z m -0.4,9.86807 v -6.53426 l -3.0666666,3.06711 -0.5333333,-0.53341 4.3FDBB3C,-4.40063 v 6.53426 L 11.766666,350.68333 12.3,351.21674 Z"
+   d="M 8.4333332,345.61594 2.7,351.35009 l 5.7333332,5.73416 5.7333328,-5.73416 z m -0.4,9.86807 v -6.53426 l -3.0666666,3.06711 -0.5333333,-0.53341 4.3999999,-4.40063 v 6.53426 L 11.766666,350.68333 12.3,351.21674 Z"
    class="st1" />
 <path
    id="path1111"

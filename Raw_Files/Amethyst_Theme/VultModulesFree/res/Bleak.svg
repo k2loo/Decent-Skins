@@ -22,7 +22,7 @@
       <rect x="0" y="0" width="90" height="380" style="fill:url(#_Linear1);"/>
       <rect x="0" y="253.33" width="90" height="126.67" style="fill:url(#_Linear2);"/>
       <rect x="0" y="126.67" width="90" height="126.67" style="fill:url(#_Linear3);"/>
-      <rect x="0" y="0" width="90" height="380" style="fill:rgb(16,53,80);fill-opacity:0.1;"/>
+      <rect x="0" y="0" width="90" height="380" style="fill:#401B5C;"/>
       <rect x="0" y="0" width="90" height="2" style="fill:url(#_Linear4);"/>
       <path d="M58.925,307.37c-5.359,0 -9.723,4.364 -9.723,9.723l0,21.178c0,5.359 4.364,9.72 9.723,9.72l10.412,0c5.36,0 9.721,-4.361 9.721,-9.72l0,-21.178c0,-5.359 -4.361,-9.723 -9.721,-9.723l-10.412,0Z" style="fill:none;stroke:#FDDEA2;stroke-width:1.2px;"/>
       <g>

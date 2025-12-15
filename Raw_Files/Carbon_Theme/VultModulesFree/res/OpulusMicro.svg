@@ -25,7 +25,7 @@
         <path id="rect25" style="fill:url(#_Linear1)" d="M 0,0 H 90.135002 V 380 H 0 Z"/>
         <path id="rect27" style="fill:url(#_Linear2)" d="M 0,253.33 H 90.135002 V 380 H 0 Z"/>
         <path id="rect29" style="fill:url(#_Linear3)" d="M 0,126.67 H 90.135002 V 253.34 H 0 Z"/>
-        <path id="rect31" style="fill:#103550;fill-opacity:0.1" d="M 0,0 H 90.135002 V 380 H 0 Z"/>
+        <path id="rect31" style="fill:#202020;fill-opacity:0.1" d="M 0,0 H 90.135002 V 380 H 0 Z"/>
         <path id="rect33" style="fill:url(#_Linear4)" d="M 0,0 H 90.135002 V 2 H 0 Z"/>
       </g>
     </g>

@@ -1,0 +1,24 @@
+{
+  "slug": "Hora-PCMDrumFree",
+  "name": "PCM Drums free",
+  "version": "2.1.2",
+  "license": "proprietary",
+  "brand":"Hora",
+  "author": "Hora",
+  "authorEmail": "hora.music.contact@gmail.com",
+  "authorUrl": "http://hora-music.wifeo.com",
+  "pluginUrl": "http://hora-music.wifeo.com/pcm-drums.php",
+  "manualUrl": "http://hora-music.wifeo.com/manuals.php",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "modules": [
+	{
+	"slug": "Hora-PCMDrumLDrum",
+      "name": "PCM Drum Free",
+      "description": "LinnDrum samples based drums",
+      "tags": [
+        "DRUM"
+      ]
+    }
+]
+}

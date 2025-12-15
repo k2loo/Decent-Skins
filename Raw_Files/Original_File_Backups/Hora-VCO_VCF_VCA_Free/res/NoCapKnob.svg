@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="23"
+   height="23"
+   viewBox="0 0 6.4911112 6.4911112"
+   version="1.1"
+   id="svg16908"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="NoCapKnob.svg">
+  <defs
+     id="defs16902">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6367">
+      <path
+         d="M 0,3193 H 2089 V 0 H 0 Z"
+         id="path6365"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern-5" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9999998"
+     inkscape:cx="-12.020947"
+     inkscape:cy="-2.9156774"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1280"
+     inkscape:window-height="882"
+     inkscape:window-x="0"
+     inkscape:window-y="18"
+     inkscape:window-maximized="0"
+     units="px">
+    <inkscape:grid
+       type="xygrid"
+       id="grid840" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata16905">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-231.55376,-124.4085)">
+    <ellipse
+       style="opacity:1;fill:#af5961;fill-opacity:1;fill-rule:nonzero;stroke:#0059ae;stroke-width:0.2730926;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4171"
+       cx="234.80994"
+       cy="127.64973"
+       rx="3.0999486"
+       ry="3.1015582" />
+    <path
+       id="path830"
+       d="m 236.80242,120.54206 h 0.79022 v 1.13594 h -0.79022 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.28222221"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#396e91;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.53333336;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path824"
+       sodipodi:type="arc"
+       sodipodi:cx="234.80016"
+       sodipodi:cy="127.65895"
+       sodipodi:rx="3.1839023"
+       sodipodi:ry="3.1832922"
+       sodipodi:start="3.477778"
+       sodipodi:end="3.4711514"
+       d="m 231.79449,126.60882 a 3.1839023,3.1832922 0 0 1 4.05102,-1.9567 3.1839023,3.1832922 0 0 1 1.96378,4.047 3.1839023,3.1832922 0 0 1 -4.04452,1.9701 3.1839023,3.1832922 0 0 1 -1.97718,-4.04046"
+       sodipodi:open="true" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.53333336;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4543"
+       width="0.40535882"
+       height="1.6759411"
+       x="234.59708"
+       y="124.50743"
+       ry="0.16759412" />
+  </g>
+</svg>
