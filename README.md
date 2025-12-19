@@ -13,10 +13,9 @@ Rid yourself of those pesky light mode modules in your rack with Decent Skins. O
 
 3. Copy/paste the Decent Skins svg files where the current files for panel backgrounds are, within in the `res` folder for each brand's plugin folder. The new files should have the same names and locations as the originals, replacing them.
     - Find it by opening VCV Rack and right clicking on a module > info > open plugin folder, [like this.](/.github/plugin-folder-location.png) Once found, close VCV Rack and paste the files.
+    - The file/folder structure here match that of your plugin folder, you can swap entire themes at once and all the background images will fall into place, as seen in [this demo video.](https://www.youtube.com/watch?v=wWI0Yf5v-Do)
 
 4. Open VCV Rack and enjoy.
-
-Note: Because the file/folder structure here match that of your plugin folder, you can swap entire themes at once and all the background images will fall into place, as seen in [this demo video.](https://www.youtube.com/watch?v=wWI0Yf5v-Do)
 
 Finished example with new background images replacing the originals:
 ![Alright Devices Example](/.github/res-folder.png)
