@@ -9,16 +9,41 @@ Rid yourself of those pesky light mode modules in your rack with Decent Skins. O
 1. Make a backup copy of any plugin folders you will be updating.
 
 2. Download the zip file from the downloads folder here and unzip it.
-    -  Close VCV Rack if it's running.
 
-3. Copy/paste the Decent Skins svg files where the current files for panel backgrounds are, within in the `res` folder for each brand's plugin folder. The new files should have the same names and locations as the originals, replacing them.
+3. Copy/paste the Decent Skins svg files where the current files for panel backgrounds are, within in the `res` folder for each brand's plugin folder. The new files should have the same names and locations as the originals, replacing them, [like this.](/.github/res-folder.png)
     - Find it by opening VCV Rack and right clicking on a module > info > open plugin folder, [like this.](/.github/plugin-folder-location.png) Once found, close VCV Rack and paste the files.
     - The file/folder structure here match that of your plugin folder, you can swap entire themes at once and all the background images will fall into place, as seen in [this demo video.](https://www.youtube.com/watch?v=wWI0Yf5v-Do)
 
-4. Open VCV Rack and enjoy.
+4. Open VCV Rack and enjoy! (or restart if it was already running)
 
-Finished example with new background images replacing the originals:
-![Alright Devices Example](/.github/res-folder.png)
+## Themes
+
+### Carbon (matches default grey)
+![decent skins thumb](/.github/demo-1each-carbon.png)
+
+### Bog Black
+![decent skins thumb](/.github/demo-1each-bog-black.png)
+
+### Amethyst
+![decent skins thumb](/.github/demo-1each-amethyst.png)
+
+### Bubblegum
+![decent skins thumb](/.github/demo-1each-bubblegum.png)
+
+### Hardwood
+![decent skins thumb](/.github/demo-1each-hardwood.png)
+
+### Iceberg
+![decent skins thumb](/.github/demo-1each-iceberg.png)
+
+### Blue Sky
+![decent skins thumb](/.github/demo-1each-blue-sky.png)
+
+### Forest
+![decent skins thumb](/.github/demo-1each-forest.png)
+
+
+
 
 ## FAQ
 
@@ -32,11 +57,11 @@ A: There are a few methods.
 
 1. You can restore the original backup of your plugins, just put it back where it was.
 
-2. Or you can replace the Decent Skins svg files with the originals, also available in this repo. The original backup you made is more recent though, and you already have that.
+2. Or you can replace the Decent Skins svg files with the original backups available in this repo. The backup you made is more recent though, and you already have that.
 
 3. You can unsubscribe from your modules for a moment and then resubscribe to them.
 
-In any case, closing the VCV Rack app and reopening it will cause it to read the plugin folders and notice any changes.
+In any case, restarting the VCV Rack app will cause it to notice any changes to your plugin folder or subscriptions.
 
 *Q: Are there plans for more modules coming?*
 
