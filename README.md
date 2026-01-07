@@ -42,6 +42,13 @@ Rid yourself of those pesky light mode modules in your rack with Decent Skins. O
 ### Forest
 ![decent skins thumb](/.github/demo-1each-forest.png)
 
+### Monochrome
+![link](/.github/demo-1each-mono-red.png)
+![link](/.github/demo-1each-mono-gold.png)
+![link](/.github/demo-1each-mono-green.png)
+![link](/.github/demo-1each-mono-blue.png)
+![link](/.github/demo-1each-mono-purple.png)
+
 
 
 
